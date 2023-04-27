@@ -1,5 +1,0 @@
-﻿  recu.cpp
-C:\Users\suker\Desktop\SDL_image\recuperacion\recuperacion\recu.cpp(26,14): error C2065: 'display': identificador no declarado
-C:\Users\suker\Desktop\SDL_image\recuperacion\recuperacion\recu.cpp(26,23): error C2065: 'win': identificador no declarado
-C:\Users\suker\Desktop\SDL_image\recuperacion\recuperacion\recu.cpp(26,28): error C2065: 'gc': identificador no declarado
-C:\Users\suker\Desktop\SDL_image\recuperacion\recuperacion\recu.cpp(26,3): error C3861: 'XDrawPoint': no se encontró el identificador
